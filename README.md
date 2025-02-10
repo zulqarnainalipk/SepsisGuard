@@ -1,5 +1,8 @@
 # **SepsisGuard**
 
+![Banner](data/baneer.png)
+
+
 ## **Overview**
 
 Pediatric sepsis is a life-threatening condition that requires early detection and timely intervention to improve patient outcomes. The **SepsisGuard** leverages machine learning algorithms to predict sepsis in pediatric patients admitted to the Pediatric Intensive Care Unit (PICU). By analyzing clinical data such as lab measurements, drug exposure, demographics, and other time-series features, this system aims to provide accurate predictions up to 6 hours before the onset of sepsis symptoms.
