@@ -1,0 +1,6 @@
+# config/paths.yaml
+train_data_path: "data/raw/training_data"
+test_data_path: "data/raw/testing_data"
+model_path: "models/rf_model.pkl"
+encoder_path: "models/encoders.pkl"
+median_path: "models/medians.pkl"  # NEW
